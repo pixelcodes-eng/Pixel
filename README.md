@@ -25,10 +25,6 @@
 - Data Structures (coming soon)
 - HTML, CSS, JavaScript
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)
-
 ## 📫 Connect With Me
 - 💼 LinkedIn: [your-linkedin-name](https://linkedin.com/in/your-linkedin-name)
 - 🎬 Portfolio: [your-portfolio-link](https://your-portfolio-link)
