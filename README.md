@@ -26,8 +26,7 @@
 - HTML, CSS, JavaScript
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: [your-linkedin-name](https://linkedin.com/in/your-linkedin-name)
-- 🎬 Portfolio: [your-portfolio-link](https://your-portfolio-link)
+- 💼 LinkedIn: [Aditya Mishra](www.linkedin.com/in/aditya-mishra-290706444)
 
 ---
 ⭐ *Thanks for visiting my profile!*
